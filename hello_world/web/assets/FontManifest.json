@@ -1,0 +1,15 @@
+
+
+[
+    {
+        
+      "family": "MaterialIcons",
+      "fonts": [
+        {
+            
+          "asset": "fonts/MaterialIcons-Regular.woff2" 
+        }
+      ]
+    }
+   
+  ]
