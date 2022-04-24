@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       theme: new ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: new MyHomePage(title: '1义县游学电子科技有限公司(www.yxzhw.cn)---提供flutter基础使用教程'),
+      home: new MyHomePage(title: '12义县游学电子科技有限公司(www.yxzhw.cn)---提供flutter基础使用教程'),
     );
   }
 }
